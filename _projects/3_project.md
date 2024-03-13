@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: L2 Imitation
+description: Analysis of L2 German pitch contours
+img: assets/img/15.png
 redirect: https://unsplash.com
 importance: 3
 category: work

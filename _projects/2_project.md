@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: MLG
+description: Word order in Middle Low German
+img: assets/img/14.jpg
 importance: 2
 category: work
 giscus_comments: true

@@ -2,12 +2,25 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Previous & ongoing research projects.
 nav: true
 nav_order: 3
 display_categories: [work]
 horizontal: false
 ---
+
+
+<font size="+2"><b>My research interests:</b></font>
+<font size="+1">
+<ul>
+  <li>Prosody</li>
+  <li>Phonetics, phonology (laboratory phonology)</li>
+  <li>Tone and intonation</li>
+  <li>Second language acquisition</li>
+  <li>Corpus linguistics</li>
+  <li>Psycholinguistics</li>
+</ul>
+</font>
 
 <!-- pages/projects.md -->
 <div class="projects">
