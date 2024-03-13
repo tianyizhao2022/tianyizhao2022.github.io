@@ -24,6 +24,7 @@ I'm a PhD student in the Department of Linguistics at the [University of Konstan
 I'm interested in experimental linguistics with the focus on prosody, tone and intonation as well as phonetics and phonology in general.
 
 <br>
+✍️
 
 I received my Master degree in Germanic Linguistics at the University of Konstanz. Back then, I worked for projects on second language acquisition, interaction between tone and intonation and some corpus research in Middle Low German.
 
