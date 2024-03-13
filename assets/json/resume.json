@@ -33,6 +33,17 @@
       "endDate": "",
       "score": "10",
       "courses": ["Dissertation (working title): Language redundancy effects in the acoustic realizations of German"]
+    },
+    {
+      "institution": "University of Konstanz, Konstanz, Germany",
+      "location": "Konstanz, Germany",
+      "url": "https://www.ling.uni-konstanz.de/en/studium/bereiche-der-linguistik-in-konstanz/germanistische-linguistik/",
+      "area": "Germanic Linguistics",
+      "studyType": "MA",
+      "startDate": "2018-10",
+      "endDate": "2021-01",
+      "score": "10",
+      "courses": ["Thesis: Analysis of the alignment differences of L2 German speakers in German pitch accents"]
     }
   ],
   "Languages": [
