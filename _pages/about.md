@@ -28,7 +28,7 @@ I'm interested in experimental linguistics with the focus on prosody, tone and i
 
 I received my Master degree in Germanic Linguistics at the University of Konstanz. Back then, I worked for projects on second language acquisition, interaction between tone and intonation and some corpus research in Middle Low German.
 
-For my undergraduate dgree, I studied German language and literature at [Beijing Foreign Studies University](https://en.bfsu.edu.cn/) (China).
+For my undergraduate degree, I studied German language and literature at [Beijing Foreign Studies University](https://en.bfsu.edu.cn/) (China).
 
 <br>
 <br>
