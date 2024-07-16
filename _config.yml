@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+<meta name="keywords" content="tianyizhao2022, Tianyi Zhao, Tianyi, Linguistics, University of Konstanz" />
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Tianyi
 middle_name: 
@@ -19,7 +19,7 @@ icon: icon.png # the emoji used as the favicon (alternatively, provide image nam
 
 url: https://tianyizhao2022.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
