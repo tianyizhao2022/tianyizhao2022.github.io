@@ -1,7 +1,6 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-<meta name="keywords" content="tianyizhao2022, Tianyi Zhao, Tianyi, Linguistics, University of Konstanz" />
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Tianyi
 middle_name: 
@@ -244,6 +243,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
