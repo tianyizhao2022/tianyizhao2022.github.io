@@ -243,7 +243,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:
@@ -470,4 +469,6 @@ jsonresume:
   - Languages
   - Technical skills  
   - Work
+  - Institutional/organizational activities
   - Awards
+

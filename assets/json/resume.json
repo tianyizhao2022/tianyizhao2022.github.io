@@ -138,18 +138,29 @@
       "highlights": ["Questions at the interface"]
     }
   ],
-  "volunteer": [
+  "Institutional/organizational activities": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "ISCA Student Advisory Commission",
+      "position": "Student volunteer at ISCA-SAC",
+      "url": "http://www.isca-students.org/sacweb/index.php/about-us",
+      "startDate": "2024-07",
+      "endDate": ""
+    },
+    {
+      "organization": "University of Konstanz",
+      "position": "Committee member of the Awarding Commission Internationalization",
+      "url": "https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/Fuer-mehr-Internationalitaet/",
+      "startDate": "2024-07",
+      "endDate": ""
+    },
+    {
+      "organization": "University of Konstanz",
+      "position": "Committee member of Doctoral Fund",
+      "url": "https://www.uni-konstanz.de/en/konstanz-research-school/contacts-and-resources/doctoral-fund/",
+      "startDate": "2022-12",
+      "endDate": ""
     }
-  ],
-  
+  ],  
   "Awards": [
     {
       "title": "Exemption of the tuition for gifted international students",
