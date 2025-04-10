@@ -140,28 +140,42 @@
   ],
   "Institutional/organizational activities": [
     {
-      "organization": "ISCA Student Advisory Commission",
-      "position": "Student volunteer at ISCA-SAC",
+      "organization": "Main organizor",
+      "position": "Konstanz Linguistics Conference 2025",
+      "url": "https://konstanz-ling.github.io/",
+      "startDate": "2024-12",
+      "endDate": ""
+    },
+    {
+      "organization": "Student volunteer",
+      "position": "ISCA Student Advisory Commission",
       "url": "http://www.isca-students.org/sacweb/index.php/about-us",
       "startDate": "2024-07",
       "endDate": ""
     },
     {
-      "organization": "University of Konstanz",
-      "position": "Committee member of the Awarding Commission Internationalization",
+      "organization": "Committee member",
+      "position": "The Awarding Commission Internationalization, University of Konstanz",
       "url": "https://www.uni-konstanz.de/universitaet/aktuelles-und-medien/aktuelle-meldungen/aktuelles/Fuer-mehr-Internationalitaet/",
       "startDate": "2024-07",
       "endDate": ""
     },
     {
-      "organization": "University of Konstanz",
-      "position": "Committee member of Doctoral Fund",
+      "organization": "Committee member",
+      "position": "Doctoral Fund, University of Konstanz",
       "url": "https://www.uni-konstanz.de/en/konstanz-research-school/contacts-and-resources/doctoral-fund/",
       "startDate": "2022-12",
       "endDate": ""
     }
   ],  
   "Awards": [
+    {
+      "title": "PhD researcher position in a 3-year DFG project",
+      "date": "2024-12",
+      "awarder": "Deutsche Forschungsgemeinschaft",
+      "url": "",
+      "summary": "Extension for the project 'Prosodic structure at the interface between language and speech (2022-2024)'"
+    },
     {
       "title": "Exemption of the tuition for gifted international students",
       "date": "2019-05",

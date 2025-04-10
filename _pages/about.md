@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student in the Department of Linguistics at the [University of Konstanz](https://www.uni-konstanz.de/). Currently, I work as a doctoral researcher for the DFG-AHRC project <i>Prosodic structure at the interface between language and speech</i> (supervised by [Tina Bögel](https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/) and [Alice Turk](https://www.ed.ac.uk/profile/alice-turk)).
+I'm a PhD student in the Department of Linguistics at the [University of Konstanz](https://www.uni-konstanz.de/).  During 2022-2024, I have been working for the DFG-AHRC project <i>Prosodic structure at the interface between language and speech</i> (supervised by [Dr. Tina Bögel](https://ling.sprachwiss.uni-konstanz.de/pages/home/boegel/) and [Prof. Dr. Alice Turk](https://www.ed.ac.uk/profile/alice-turk)). The German side of this project has been granted a 3-year extension (PI: Dr. Tina Bögel), where I continue working as a doctoral researcher.
 
 I'm interested in experimental linguistics with the focus on prosody, tone and intonation as well as phonetics and phonology in general.
 
