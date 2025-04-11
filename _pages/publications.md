@@ -8,7 +8,7 @@ nav_order: 4
 post-header: true
 bibtypes:
   - bibquery: "@article"
-    text: "Journal papers"  
+    text: "Journal papers (peer-reviewed)"  
   - bibquery: "@inproceedings"
     text: "Conference proceedings (peer-reviewed)"
   - bibquery: "@misc|@thesis"
