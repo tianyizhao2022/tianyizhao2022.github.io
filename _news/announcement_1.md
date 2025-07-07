@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-🎙<b>The 2. Konstanz Linguistics Conference is now open for call for papers!</b>
+🎙<b>The 2. Konstanz Linguistics Conference is soon open for registration!</b>
 <br>
 The Konstanz Linguistics Conference 2025 (KLC25) is an early-career research conference taking place for the second time on October 9 - 10, 2025 at the University of Konstanz, Germany. This event provides a platform for early-career researchers to share their research and engage in discussions across various subfields of linguistics. Submissions are welcome from all areas of linguistics, promoting an inclusive and collaborative environment for researchers at the start of their academic careers.
 <br>
